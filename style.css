@@ -1,0 +1,27 @@
+#myLi {
+    font-size: 20px; /* Change this value to the size you want */
+}
+
+#movie {
+    font-size: 20px;
+    color: blueviolet;
+
+}
+
+* {
+    margin: 10px;
+}
+
+nav {
+    background-color: aquamarine;
+    overflow: hidden;
+    padding: 10px 0;
+}
+
+.custom-bg {
+    background-color: lightyellow;
+}
+
+.font {
+    font-family: 'Comic Sans MS', cursive;
+}
